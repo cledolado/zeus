@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'geografia',
+    'qual o pais mais poluido ?',
+    'china '
 )
