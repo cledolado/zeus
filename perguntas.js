@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'geografia',
+    'qual o pais com mais indice de desemprego?',
+    'africa do sul '
 )
 
 criaCartao(
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'linguagens ',
+    'como se diz programação em ingles ?',
+    'programação em ingles é schedule'
 )
 
 criaCartao(
@@ -26,4 +26,15 @@ criaCartao(
     'geografia',
     'qual o pais mais poluido ?',
     'china '
+)
+criaCartao(
+'linguagens ',
+'como se fala estintor em ingles ?' ,
+'estintor em ingles é',
+'estintor em ingles extinguisher'
+)
+criaCartao(
+'linguagens',
+'como fala sol em ingles ',
+'sol em ingles sun'
 )
