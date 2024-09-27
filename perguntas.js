@@ -38,3 +38,18 @@ criaCartao(
 'como fala sol em ingles ',
 'sol em ingles sun'
 )
+criaCartao(
+    'mecanica',
+    'o que gera energia para o carro', 
+    'o que gera energia para o carro e o alternador'
+)
+criaCartao(
+    'mecanica ',
+    'o que faz o resfriamento do motor do carro',
+    'o que resfria o motor do carro e o radiador '
+)
+criaCartao(
+    'poluição ',
+    'qual compustives e menos poluente ',
+'o compustives menos poluente e o alcol/etanol'
+)
